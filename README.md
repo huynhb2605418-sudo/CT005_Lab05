@@ -1,2 +1,1 @@
-# CT005_Lab05
-Bài thực hành Lab 05 - Môn CT005
+#### CT005 – Lab05 – Nguyễn Hải Huỳnh – MSSVB2605418 – 26-27HK1-CT005D05
